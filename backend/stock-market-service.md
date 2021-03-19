@@ -1,4 +1,4 @@
-Stock Market API Service
+# Stock Market API Service
 
 Expose an API endpoint where I can POST my data and sign up for an API key that will be used later.
 Expose an API endpoint where I can hit and get stock market information, as a security mechanism use the API key obtained previously in order to validate user and make sure that no authorized user will consume the service (use request header for that purpose). 
