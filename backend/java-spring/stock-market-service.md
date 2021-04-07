@@ -35,7 +35,7 @@ API call sample to get stock prices from Facebook:
 - Json structure is up to you.
 - It will be a big plus if you deploy the services somewhere in the cloud (heroku, gcloud, aws, azure, etc). It's ok if you just do it locally.
 - Use github (or other git repo).
-- Programming languages: C#, Java, Python, PHP. Please choose one to resolve the exercise. 
+- Programming language: Java with spring boot framework
 - BONUS: If you can implement API throttling, that's a big one. Throttling rules are up to you (1 API call per second allowed or 10 API calls per minute, etc).
 - Log every API call received, log format is up to you.
 
