@@ -1,4 +1,4 @@
-Stock Market API Service
+#Stock Market API Service
 
 Expose an API endpoint where I can POST my data and sign up for an API key that will be used later.
 Expose an API endpoint where I can hit and get stock market information, as a security mechanism use the API key obtained previously in order to validate user and make sure that no authorized user will consume the service (use request header for that purpose). 
@@ -39,4 +39,4 @@ API call sample to get stock prices from Facebook:
 - BONUS: If you can implement API throttling, that's a big one. Throttling rules are up to you (1 API call per second allowed or 10 API calls per minute, etc).
 - Log every API call received, log format is up to you.
 
-**No frontend development is required, challenge will be reviwed using postman**
+**No frontend development is required, challenge will be reviewed using postman**
