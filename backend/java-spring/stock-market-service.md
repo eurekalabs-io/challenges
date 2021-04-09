@@ -39,3 +39,4 @@ API call sample to get stock prices from Facebook:
 - BONUS: If you can implement API throttling, that's a big one. Throttling rules are up to you (1 API call per second allowed or 10 API calls per minute, etc).
 - Log every API call received, log format is up to you.
 
+**No frontend development is required, challenge will be reviwed using postman**
