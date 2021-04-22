@@ -1,6 +1,6 @@
 # Pictures everywhere!
 
-Taking pictures is fun, but let's attach the location where the picture has been taken from.
+Taking pictures is fun, but let's grab the location where the picture has been taken from.
 
 The main goal is to build an app able to take pictures and save it along with the device's location. Users will be able to see the pictures with the location where they've been taken from.
 
@@ -8,7 +8,7 @@ Screens:
 
 - Splash screen: This is the initial screen, it will show up for some seconds showing a "loading" or "welcome" text.
 
-- Main screen: This will contain the pictures taken by user as thumbnails listed one next to other as "mosaic" view. Also this screen has the "Take picture" action.
+- Main screen: This will contain the pictures taken by user as thumbnails listed one next to the other as "mosaic" view. Also this screen has the "Take picture" action.
 
 - Take picture screen: This will open up the device's camera so the user can take the picture and grab the location coordinates using GPS. You can come back to the main screen using the "back" action at the top - left.
 
