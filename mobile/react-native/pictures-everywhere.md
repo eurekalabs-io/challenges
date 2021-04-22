@@ -14,7 +14,7 @@ Screens:
 
 - Picture screen:
 
-Wireframes:
+### Wireframes:
 
 ![wireframes](https://github.com/eurekalabs-io/challenges/blob/main/mobile/react-native/wireframes/screens.png)
 
