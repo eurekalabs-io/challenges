@@ -21,6 +21,7 @@ Screens:
 ## Considerations:
 
 - Mobile app will have to be develped using React Native.
-- Wireframes provided are intended to serve as a guide and provide clarification about the scope.
+- Github repository will be provided with source code for review and build app.
+- Wireframes provided are intended to serve as a guide and give clarification about the scope.
 - Final designs is up to you.
 - BONUS: if you can implement something like "Share this picture" is a plus!
