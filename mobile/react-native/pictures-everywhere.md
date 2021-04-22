@@ -6,13 +6,13 @@ The main goal is to build an app able to take pictures and save it along with th
 
 Screens:
 
-- Splash screen:
+- Splash screen: This is the initial screen, it will show up for some seconds showing a "loading" or "welcome" text.
 
-- Main screen:
+- Main screen: This will contain the pictures taken by user as thumbnails listed one next to other as "mosaic" view. Also this screen has the "Take picture" action.
 
-- Take picture screen:
+- Take picture screen: This will open up the device's camera so the user can take the picture and grab the location coordinates using GPS. You can come back to the main screen using the "back" action at the top - left.
 
-- Picture screen:
+- Picture screen: This will show the picture in full size along with the location. You can come back to the main screen using the "back" action at the top - left.
 
 ### Wireframes:
 
