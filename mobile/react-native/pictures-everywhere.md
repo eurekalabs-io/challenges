@@ -24,4 +24,5 @@ Screens:
 - Github repository will be provided with source code for review and build app.
 - Wireframes provided are intended to serve as a guide and give clarification about the scope.
 - Final designs is up to you.
+- Please don't use Expo.
 - BONUS: if you can implement something like "Share this picture" is a plus!
