@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "etapas": 4,
+    "inscriptos": 10
+  },
+  "etapas": [
+    {
+      "etapa": "El Condor - Copina",
+      "horario": "mañana",
+      "resultados": [
+        { "piloto": "Jack Tuerca", "tiempo": "12:34" },
+        { "piloto": "Manuel Derrape", "tiempo": "11:20" },
+        { "piloto": "Roberto Piston", "tiempo": "11:45" },
+        { "piloto": "Ariel Bujia", "tiempo": "12:56" },
+        { "piloto": "Jose Chispazo", "tiempo": "13:12" },
+        { "piloto": "Federico Volante", "tiempo": "11:29" },
+        { "piloto": "Hugo Piedras", "tiempo": "12:10" },
+        { "piloto": "Carlos Fuerte", "tiempo": "12:44" },
+        { "piloto": "Joel Curva", "tiempo": "11:14" },
+        { "piloto": "Marcelo Escape", "tiempo": "13:54" }
+      ]
+    },
+    {
+      "etapa": "Santa Rosa - San Agustin",
+      "horario": "mañana",
+      "resultados": [
+        { "piloto": "Jack Tuerca", "tiempo": "8:57" },
+        { "piloto": "Manuel Derrape", "tiempo": "9:04" },
+        { "piloto": "Roberto Piston", "tiempo": "9:01" },
+        { "piloto": "Ariel Bujia", "tiempo": "8:40" },
+        { "piloto": "Jose Chispazo", "tiempo": "9:12" },
+        { "piloto": "Federico Volante", "tiempo": "9:54" },
+        { "piloto": "Hugo Piedras", "tiempo": "10:01" },
+        { "piloto": "Carlos Fuerte", "tiempo": "9:30" },
+        { "piloto": "Joel Curva", "tiempo": "8:38" },
+        { "piloto": "Marcelo Escape", "tiempo": "9:55" }
+      ]
+    },
+    {
+      "etapa": "Amboy – Yacanto",
+      "horario": "tarde",
+      "resultados": [
+        { "piloto": "Jack Tuerca", "tiempo": "22:13" },
+        { "piloto": "Manuel Derrape", "tiempo": "21:55" },
+        { "piloto": "Roberto Piston", "tiempo": "23:12" },
+        { "piloto": "Ariel Bujia", "tiempo": "22:32" },
+        { "piloto": "Jose Chispazo", "tiempo": "21:11"},
+        { "piloto": "Federico Volante", "tiempo": "21:28" },
+        { "piloto": "Hugo Piedras", "tiempo": "24:32" },
+        { "piloto": "Carlos Fuerte", "tiempo": "22:54" },
+        { "piloto": "Joel Curva", "tiempo": "22:11" },
+        { "piloto": "Marcelo Escape", "tiempo": "21:37" }
+      ]
+    },
+    {
+      "etapa": "Tanti - Mataderos",
+      "horario": "tarde",
+      "resultados": [
+        { "piloto": "Jack Tuerca", "tiempo": "15:32" },
+        { "piloto": "Manuel Derrape", "tiempo": "14:56" },
+        { "piloto": "Roberto Piston", "tiempo": "15:09" },
+        { "piloto": "Ariel Bujia", "tiempo": "16:11" },
+        { "piloto": "Jose Chispazo", "tiempo": "16:23" },
+        { "piloto": "Federico Volante", "tiempo": "15:57" },
+        { "piloto": "Hugo Piedras", "tiempo": "14:59" },
+        { "piloto": "Carlos Fuerte", "tiempo": "16:14" },
+        { "piloto": "Joel Curva", "tiempo": "16:04" },
+        { "piloto": "Marcelo Escape", "tiempo": "16:27" }
+      ]
+    }
+  ]
+}
