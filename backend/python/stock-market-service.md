@@ -30,13 +30,13 @@ API call sample to get stock prices from Facebook:
 `https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=FB&outputsize=compact&apikey=X86NOH6II01P7R24`
 
 **Considerations:**
-- URL structure is up to you.
+- API URL structure is up to you.
 - Initial data for sign up: name, last name, email.
 - Validation rules for signup data are up to you.
 - Json structure is up to you.
 - It will be a big plus if you deploy the services somewhere in the cloud (heroku, gcloud, aws, azure, etc). It's ok if you just do it locally.
 - Use github (or other git repo).
-- Programming languages: C#, Java, Python, PHP. Please choose one to resolve the exercise. 
+- Programming language: Python.
 - BONUS: If you can implement API throttling, that's a big one. Throttling rules are up to you (1 API call per second allowed or 10 API calls per minute, etc).
 - Log every API call received, log format is up to you.
-
+- Place a README.md file with instructions in the github repo so test can be performed and checked.
