@@ -1,6 +1,6 @@
 # Rally en Cordoba - Argentina
 
-En uno de los eventos más populares del automobilismo mundial, se disputó el Rally Internacional en Cordoba, Argentina. La agencia fiscalizadora fué la encargada de procesar y enviar los resultados en un archivo llamado **rally-argentina.json**, con lo cual es necesario interpretarlo para poder ofrecer la información oficial. 
+En uno de los eventos más populares del automobilismo mundial, se disputó el Rally Internacional en Cordoba, Argentina. La agencia fiscalizadora fué la encargada de procesar y enviar los resultados en un archivo llamado [**rally-argentina.json**](https://github.com/eurekalabs-io/challenges/blob/main/backend/algorithms/rally/rally-argentina.json), con lo cual es necesario interpretarlo para poder ofrecer la información oficial. 
 
 Para poder cumplir con las expectativas de la prensa y el público en general, es necesario conocer lo siguiente:
 
