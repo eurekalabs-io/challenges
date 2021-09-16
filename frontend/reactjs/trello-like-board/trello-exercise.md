@@ -10,12 +10,6 @@ Find attached to this description a trello snap for the exercise, this will play
 
 Free admin dashboard for visual resources if needed (this is optional): https://github.com/mrholek/CoreUI-React
 
-Trello Account Login:
-
-    Login: https://trello.com/login
-    User: roque@eurekalabs.io
-    Pass: EurekaLabs!
-
 ### Tech Stack
 - NodeJS 8.X: https://nodejs.org/en/download/current/
 - React 16: https://github.com/facebook/react
