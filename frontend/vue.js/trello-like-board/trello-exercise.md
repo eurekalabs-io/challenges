@@ -19,7 +19,9 @@ Feel free to use the preferred dev environment and also any other framework that
 ### Quick Reference
 API Docs: https://developers.trello.com/v1.0/reference
 
-You should be able to sign up trello for free, then get the API key + Token so you can connect the backend piece.
+You should be able to sign up in trello for free, then get the API key + Token so you can connect the backend piece.
+
+Please visit https://trello.com/app-key to get your key and secret (token)
 
 #### Get All Boards
     Synopsis:
