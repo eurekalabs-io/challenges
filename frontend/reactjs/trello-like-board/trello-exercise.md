@@ -1,12 +1,13 @@
 # Trello exercise:
 
-The purpose of the test is to create a personal projects organizer web app using Trello's APIs as a backend. The feature scope for the test is the following:
-- List all boards
+The purpose of the test is to create a personal projects organizer web app using Trello's APIs as a backend and ReactJS as frontend development framework. The feature scope for the test is the following:
+- List all boards (keep in mind that boards need to be created from trello first using your account)
 - Given a selected board, show the "lists" and "cards" associated to the board. Remember 1 board -> many lists, 1 list -> many cards.
 - Create a card by giving just the field "name".
 - Move cards around lists, this is, user can drag and drop a card from any list to another  (optional with big plus).
 
-Find attached to this description a trello snap for the exercise, this will play as a wireframe. Please note that the black rectangles indicates the areas to be implemented, everything else is not needed.
+Find attached to this description a trello snap for the exercise, this will play as a wireframe. Please note that the black rectangles indicates the areas to be implemented, everything else is not needed:
+https://github.com/eurekalabs-io/challenges/blob/main/frontend/reactjs/trello-like-board/trello-snap.jpeg
 
 Feel free to use the preferred dev environment and also any other framework that facilitates development.
 
