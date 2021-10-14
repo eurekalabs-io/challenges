@@ -7,6 +7,7 @@ The purpose of the test is to create a personal projects organizer web app using
 - Move cards around lists, this is, user can drag and drop a card from any list to another  (optional with big plus).
 
 Find attached to this description a trello snap for the exercise, this will play as a wireframe. Please note that the black rectangles indicates the areas to be implemented, everything else is not needed:
+
 https://github.com/eurekalabs-io/challenges/blob/main/frontend/reactjs/trello-like-board/trello-snap.jpeg
 
 Feel free to use the preferred dev environment and also any other framework that facilitates development.
