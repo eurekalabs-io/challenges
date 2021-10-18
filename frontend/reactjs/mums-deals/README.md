@@ -43,10 +43,10 @@ Design will be up to you, although there is a wireframe as reference that you ca
 
 ### Grid View Wireframe
 
-![Grid View Wireframe](https://github.com/eurekalabs-io/challenges/blob/main/frontend/vue.js/mums-deals/wireframes/mums-deals-grid-view.png)
+![Grid View Wireframe](https://github.com/eurekalabs-io/challenges/blob/main/frontend/reactjs/mums-deals/wireframes/mums-deals-grid-view.png)
 
 ### List View Wireframe
-![List View Wireframe](https://github.com/eurekalabs-io/challenges/blob/main/frontend/vue.js/mums-deals/wireframes/mumsdeals-list-view.png)
+![List View Wireframe](https://github.com/eurekalabs-io/challenges/blob/main/frontend/reactjs/mums-deals/wireframes/mumsdeals-list-view.png)
 
 ## Tech Stack / Considerations
 
