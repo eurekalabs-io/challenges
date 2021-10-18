@@ -41,7 +41,12 @@ For the element "variants", the information we want to extract is the price, so 
 
 Design will be up to you, although there is a wireframe as reference that you can follow. Feel free to use resources / assets of your preference for this purpose.
 
+### Grid View Wireframe
 
+![Grid View Wireframe](https://github.com/eurekalabs-io/challenges/blob/main/frontend/vue.js/mums-deals/wireframes/mums-deals-grid-view.png)
+
+### List View Wireframe
+![List View Wireframe](https://github.com/eurekalabs-io/challenges/blob/main/frontend/vue.js/mums-deals/wireframes/mumsdeals-list-view.png)
 
 ## Tech Stack / Considerations
 
