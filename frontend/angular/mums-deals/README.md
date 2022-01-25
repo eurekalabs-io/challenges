@@ -50,6 +50,6 @@ Design will be up to you, although there is a wireframe as reference that you ca
 
 ## Tech Stack / Considerations
 
-- Implement the challenge using Vue.js. Feel free to include the libraries of your preference.
+- Implement the challenge using Angular 12 or newer. Feel free to include the libraries of your preference.
 - Publish source code into code repository (github, bitbucket, etc).
 - Deploy page using AWS, Heroku, etc. Optional - Big Plus.
