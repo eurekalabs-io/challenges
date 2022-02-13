@@ -9,10 +9,10 @@ First, we should develop a customers service that will allow the customer manage
 GET, POST, DELETE
 
 {
-    first_name: 'John',
-    last_name: 'Doe',
-    email: 'jdoe@company.com',
-    credit: 400
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "jdoe@company.com",
+    "credit": 400
 }
 ```
 
@@ -58,7 +58,7 @@ Campaign rules can be set as follows:
 - Credit between X and Y
 - Credit greater than X
 
-You decide how to structure the rules, then provide guidance on how to save them correctly at creating a campaign.
+You decide how the rule will be saved on the campaign record, then provide guidance on how to save them correctly at creating a campaign. Rules are based on the customer's credit information only.
 
 When running campaigns, the expected output will be a json response that will show campaigns with the corresponding information ready to be sent:
 
@@ -112,6 +112,7 @@ When running campaigns, the expected output will be a json response that will sh
 Remember that one campaign can match 0 to many customers registered.
 
 **Considerations:**
+- Solution architecture design will be up to you.
 - API URL structure for running campaigns is up to you.
 - Validation rules for customers data are up to you.
 - It will be a big plus if you deploy the services somewhere in the cloud (heroku, gcloud, aws, azure, etc). It's ok if you just do it locally.
