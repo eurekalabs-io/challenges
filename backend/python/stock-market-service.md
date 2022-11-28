@@ -5,7 +5,7 @@ Expose an API endpoint where I can POST my data and sign up for an API key that 
 Expose an API endpoint where I can hit and get stock market information, as a security mechanism use the API key obtained previously in order to validate user and make sure that no authorized user will consume the service (use request header for that purpose). 
 
 Here are some examples of stock symbols
-- Facebook (FB)
+- Facebook (META)
 - Apple (AAPL)
 - Microsoft (MSFT)
 - Google (GOOGL)
@@ -27,7 +27,7 @@ API Key: X86NOH6II01P7R24
 
 API call sample to get stock prices from Facebook:
 
-`https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=FB&outputsize=compact&apikey=X86NOH6II01P7R24`
+`https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=META&outputsize=compact&apikey=X86NOH6II01P7R24`
 
 **Considerations:**
 - API URL structure is up to you.
