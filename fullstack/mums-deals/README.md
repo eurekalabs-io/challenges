@@ -48,7 +48,7 @@ Design will be up to you, although there is a wireframe as reference that you ca
 
 ### Main Wireframe
 
-![Main Wireframe](https://github.com/eurekalabs-io/challenges/blob/main/frontend/reactjs/mums-deals/wireframes/mums-deals-grid-view.png)
+![Main Wireframe](https://github.com/eurekalabs-io/challenges/blob/main/fullstack/mums-deals/wireframes/diapers-catalog.png)
 
 ## Tech Stack / Considerations
 
