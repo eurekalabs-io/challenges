@@ -32,8 +32,27 @@ Consider the following data coming from external API:
 `
 {
     "vendor": "",
-    "variants": [{.., "option1": "NB", "option2": "34", "price": "43.20", image_id}, {.., "option1": "NB", "option2": "68", "price": "82.09", image_id} ..],
-    "images: [{id, src, ..}, {id, src, ..}],
+    "variants": [
+        {.., 
+            "option1": "NB", 
+            "option2": "34", 
+            "price": "43.20", 
+            image_id}, 
+        {.., 
+            "option1": "NB", 
+            "option2": "68", 
+            "price": "82.09", 
+            image_id} 
+        ..],
+    "images: [
+        {   
+            id, 
+            src, 
+        ..}, 
+        {   
+            id, 
+            src, 
+        ..}],
     "presentationsBySizeInStock": [{}]
 }
 `
