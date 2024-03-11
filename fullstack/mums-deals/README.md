@@ -29,33 +29,32 @@ If you see the wireframe, you will notice that diapers are grouped by variant na
 
 Consider the following data coming from external API:
 
-`
-{
-    "vendor": "",
-    "variants": [
-        {.., 
-            "option1": "NB", 
-            "option2": "34", 
-            "price": "43.20", 
-            image_id}, 
-        {.., 
-            "option1": "NB", 
-            "option2": "68", 
-            "price": "82.09", 
-            image_id} 
-        ..],
-    "images: [
-        {   
-            id, 
-            src, 
-        ..}, 
-        {   
-            id, 
-            src, 
-        ..}],
-    "presentationsBySizeInStock": [{}]
-}
-`
+
+    {
+        "vendor": "",
+        "variants": [
+            {.., 
+                "option1": "NB", 
+                "option2": "34", 
+                "price": "43.20", 
+                image_id}, 
+            {.., 
+                "option1": "NB", 
+                "option2": "68", 
+                "price": "82.09", 
+                image_id} 
+            ..],
+        "images: [
+            {   
+                id, 
+                src, 
+            ..}, 
+            {   
+                id, 
+                src, 
+            ..}],
+        "presentationsBySizeInStock": [{}]
+    }
 
 The "images" array contains information about the associated images that corresponds to each variant.
 
