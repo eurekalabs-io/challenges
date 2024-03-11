@@ -69,6 +69,5 @@ Design will be up to you, although there is a wireframe as reference that you ca
 ## Tech Stack / Considerations
 
 - Implement the frontend using Reactjs. Feel free to include the libraries of your preference.
-- Implement the backend using NodeJS. 
 - Publish source code into code repository (github, bitbucket, etc).
 - Deploy challenge using AWS, Heroku, etc. Optional - Big Plus.
