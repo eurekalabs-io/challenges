@@ -1,6 +1,6 @@
 # Shopify Challenge
 
-In this challenge you will create a new product template using Shopify Dawn as a starter. The new template will showcase product tabs with more information about the product. There are four different tabs that a product might or not have. An example can be seen [here](https://apps.shopify.com/smart-tabs)), click on **View demo store**. Do not use jQuery or any other JS library.
+In this challenge you will create a new product template using Shopify Dawn as a starter. The new template will showcase product tabs with more information about the product. There are four different tabs that a product might or not have. An example can be seen [here](https://apps.shopify.com/smart-tabs), click on **View demo store**. Do not use jQuery or any other JS library.
 
 Once you're done you will need to share access to your development store so we can test the Customizer and metafields integrations.
 
