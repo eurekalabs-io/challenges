@@ -24,7 +24,7 @@ Choose your setup below.
 #### Dawn + Tailwind (bonus points)
 
 - Create a development store and fill it with test data, [follow this guide](https://shopify.dev/docs/apps/tools/development-stores#create-a-development-store-to-test-your-app).
-- [Fork this repo in Github](https://github.com/odestry/dawn-with-tailwindcss/), start your local development server.
+- [Fork this repo in Github](https://github.com/eurekalabs-io/dawn-with-tailwindcss/), start your local development server.
 
 ## The challenge
 
