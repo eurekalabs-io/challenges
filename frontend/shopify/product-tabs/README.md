@@ -1,4 +1,4 @@
-# Shopify Challenge
+# Shopify Challenge: Product tabs
 
 In this challenge you will create a new product template using Shopify Dawn as a starter. The new template will showcase product tabs with more information about the product. There are four different tabs that a product might or not have. An example can be seen [here](https://buzzsubs-staging-test-store.myshopify.com/products/helmet?_bt=BAh7BkkiC19yYWlscwY6BkVUewhJIglkYXRhBjsAVEkiLmJ1enpzdWJzLXN0YWdpbmctdGVzdC1zdG9yZS5teXNob3BpZnkuY29tBjsARkkiCGV4cAY7AFRJIh0yMDI0LTA0LTA4VDE0OjE4OjM1LjE4OVoGOwBUSSIIcHVyBjsAVEkiHnBlcm1hbmVudF9wYXNzd29yZF9ieXBhc3MGOwBG--4fb39cf63f9fb74a6e27573185eed8971b042da0). Do not use jQuery or any other JS library.
 

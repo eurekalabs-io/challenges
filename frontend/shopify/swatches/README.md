@@ -1,4 +1,4 @@
-# Shopify Challenge
+# Shopify Challenge: Swatches
 
 In this challenge you will create image swatches for the products using Shopify Dawn as a starter. The new theme will showcase product swatches that will let users choose more efficiently their options. 
 
